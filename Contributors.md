@@ -3531,5 +3531,6 @@
 - [Marco L](https://github.com/Mar-lom)
 - [Rodukov](https://github.com/rodukov)
 - [Skuth](https://github.com/skuth)
+- [Nikhil Bugaliya] (https://github.com/nikhilbugaliya)
 <!-- prettier-ignore-end -->
 first contributions - hanyang univ.
